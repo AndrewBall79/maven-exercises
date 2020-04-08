@@ -1,0 +1,16 @@
+.idea/
+*.iml
+
+node_modules/
+main.js
+*.map
+
+# MacOS
+.DS_Store
+
+# IntelliJ
+.idea/*
+
+# Compiled output
+*.class
+out/*
